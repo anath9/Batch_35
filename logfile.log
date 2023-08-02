@@ -1,0 +1,44 @@
+2023-07-31 18:14:44,705 INFO  [Log] Application opened  
+2023-07-31 18:14:48,392 INFO  [Log] login completed  
+2023-07-31 18:14:48,435 INFO  [Log] Logout completed  
+2023-07-31 18:14:48,632 INFO  [Log] Application closed  
+2023-07-31 18:14:52,084 INFO  [Log] Application opened  
+2023-07-31 18:14:55,588 INFO  [Log] login completed  
+2023-07-31 18:14:55,618 INFO  [Log] entered into frame  
+2023-07-31 18:14:59,739 INFO  [Log]  Add new emp 
+2023-07-31 18:14:59,743 INFO  [Log] exit from frame  
+2023-07-31 18:14:59,786 INFO  [Log] Logout completed  
+2023-07-31 18:14:59,923 INFO  [Log] Application closed  
+2023-08-01 06:43:15,994 INFO  [Log] Application opened  
+2023-08-01 06:43:20,467 INFO  [Log] login completed  
+2023-08-01 06:43:20,511 INFO  [Log] Logout completed  
+2023-08-01 06:43:20,777 INFO  [Log] Application closed  
+2023-08-01 06:43:24,361 INFO  [Log] Application opened  
+2023-08-01 06:43:27,707 INFO  [Log] login completed  
+2023-08-01 06:43:27,739 INFO  [Log] entered into frame  
+2023-08-01 06:43:32,189 INFO  [Log]  Add new emp 
+2023-08-01 06:43:32,198 INFO  [Log] exit from frame  
+2023-08-01 06:43:32,249 INFO  [Log] Logout completed  
+2023-08-01 06:43:32,394 INFO  [Log] Application closed  
+2023-08-01 12:28:00,438 INFO  [Log] Application opened  
+2023-08-01 12:28:03,983 INFO  [Log] login completed  
+2023-08-01 12:28:04,028 INFO  [Log] Logout completed  
+2023-08-01 12:28:04,203 INFO  [Log] Application closed  
+2023-08-01 12:28:07,612 INFO  [Log] Application opened  
+2023-08-01 12:28:11,065 INFO  [Log] login completed  
+2023-08-01 12:28:11,099 INFO  [Log] entered into frame  
+2023-08-01 12:28:15,666 INFO  [Log]  Add new emp 
+2023-08-01 12:28:15,676 INFO  [Log] exit from frame  
+2023-08-01 12:28:15,721 INFO  [Log] Logout completed  
+2023-08-01 12:28:15,868 INFO  [Log] Application closed  
+2023-08-01 22:25:20,423 INFO  [Log] Application opened  
+2023-08-01 22:25:23,939 INFO  [Log] login completed  
+2023-08-01 22:25:23,983 INFO  [Log] Logout completed  
+2023-08-01 22:25:24,112 INFO  [Log] Application closed  
+2023-08-01 22:25:42,086 INFO  [Log] Application opened  
+2023-08-01 22:25:45,506 INFO  [Log] login completed  
+2023-08-01 22:25:45,537 INFO  [Log] entered into frame  
+2023-08-01 22:25:50,059 INFO  [Log]  Add new emp 
+2023-08-01 22:25:50,069 INFO  [Log] exit from frame  
+2023-08-01 22:25:50,119 INFO  [Log] Logout completed  
+2023-08-01 22:25:50,266 INFO  [Log] Application closed  
